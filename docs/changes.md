@@ -1,3 +1,4 @@
+![Uploading 1000039232.jpg…]()
 # Magisk Changelog
 
 ### v27.0
